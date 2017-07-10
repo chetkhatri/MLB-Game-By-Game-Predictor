@@ -1,4 +1,4 @@
-# MLB-Game-By-Game-Predictor
+# MLB-Game-By-Game-Predictor (NOT COMPLETED YET)
 
 This is similar to one of my other projects (https://github.com/adeshpande3/MLB_Win_Predictor) where I used ML to predict the number of wins that a team would get over the course of a season based on certain statistics such as Runs, Batting Average, RBIs, etc. The model performed well, as it was able to predict the team's total within 3 games. However, in terms of applications, the model is lacking because it is only able to make a prediction with that particular season's data (e.g If I wanted to predict how many wins the Dodgers get in 2017, I would need their RBI totals, ERA totals, etc for 2017).
 
